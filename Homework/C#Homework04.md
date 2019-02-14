@@ -5,11 +5,11 @@
 ##### 16 January 2019
 
 1. What are all possible values of *Boolean expressions*?
-+ All possible values of a *Boolean expression* are true or false
+  + All possible values of a *Boolean expression* are true or false
 
 2. List eight *Boolean operators*.
   + (==) equal to
-  + (!=) not eaqual to
+  + (!=) not equal to
   + (>) greater than
   + (>=) greater than or equal to
   + (<) less than
@@ -55,9 +55,13 @@ int results = 0;
   day = Tuesday;
   }
 
-7. What is a recursive method? Using language you know (such as English), write
+7. In a switch statment what happens if you omit a break
++ it will fall through
+
+
+8. What is a recursive method? Using language you know (such as English), write
 a recursive method that adds up the integers in a list of integers. The input
 to the method is a list of integers and the output is a scalar value presenting
 a sum.
 + A recursive method is that calls itself.
-+ 
++

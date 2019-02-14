@@ -11,11 +11,11 @@ A console app is an application that runs in a Command Prompt Window,
 instead of a GUI
 
 --2 What does Main() (the main method) do in a console application?
-Main() designates the programs entery point.
+Main() designates the programs entry point.
 
 --3 What is the purpose of a namespace?
 The purpose of a namespace is to give clashing names and identifier and therefor
-they will not be confused with eachother. The book calls it, creating a container
+they will not be confused with each other. The book calls it, creating a container
 for items.
 
 EX:
