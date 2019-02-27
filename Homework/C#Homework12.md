@@ -1,8 +1,8 @@
-#Microsoft Visual C# Ch 12  Inheritance#
-###Homework 12###
+#Microsoft Visual C# Ch 12  Inheritance
+###Homework 12
 
-### Michelle Caballero ###
-##### 13 February 2019 #####
+### Michelle Caballero
+##### 13 February 2019
 
 1. How does inheritance promote the principle of don’t repeat yourself (DRY) ?
 
@@ -11,7 +11,7 @@ from base class``
 
 2. What is the syntax of a derived class that inherits from a base class?
 
-``class derivedclas : baseclass``
+``class derivedclass : baseclass``
 
 3. Do all user deﬁned types (classes and structs) inherit from some base class?
 If so, what is it?
@@ -72,16 +72,19 @@ the derived class and you want to hide the base method``
 
 9. What is a virtual method ? Why would you want to deﬁne a virtual method?
 
-``A method that is intended to be overwritten.``
+``A method that is intended to be overwritten. You would want a virtual method
+because over all it is useful.``
 
 10. What does override do? Why does it do it?
 
-Declares another implementation of the virtual method. Because the each derived class might need the method in a different way.
+``Provides a different implementation of the virtual method. You would use it
+because the each derived class might need the method in a different way.``
 
 11. How do you deﬁne an extension type?
 
-In a static class and specify the type to which the method applies as the first parameter to the method with the this keyword.
+``In a static class and specify the type to which the method applies as the
+first parameter to the method with the this keyword.``
 
 12. Why do you deﬁne an extension type?
 
-To extend a type without affecting existing code.
+``To extend a type without affecting existing code``
