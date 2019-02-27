@@ -1,0 +1,7 @@
+C:\Users\mich\Cohort 06\ArraysExcercise05\ArraysExcercise05\bin\Debug\ArraysExcercise05.exe.config
+C:\Users\mich\Cohort 06\ArraysExcercise05\ArraysExcercise05\bin\Debug\ArraysExcercise05.exe
+C:\Users\mich\Cohort 06\ArraysExcercise05\ArraysExcercise05\bin\Debug\ArraysExcercise05.pdb
+C:\Users\mich\Cohort 06\ArraysExcercise05\ArraysExcercise05\obj\Debug\ArraysExcercise05.csprojAssemblyReference.cache
+C:\Users\mich\Cohort 06\ArraysExcercise05\ArraysExcercise05\obj\Debug\ArraysExcercise05.csproj.CoreCompileInputs.cache
+C:\Users\mich\Cohort 06\ArraysExcercise05\ArraysExcercise05\obj\Debug\ArraysExcercise05.exe
+C:\Users\mich\Cohort 06\ArraysExcercise05\ArraysExcercise05\obj\Debug\ArraysExcercise05.pdb

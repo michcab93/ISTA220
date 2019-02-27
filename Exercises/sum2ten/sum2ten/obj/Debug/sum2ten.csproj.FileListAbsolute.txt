@@ -1,0 +1,7 @@
+C:\Users\mich\Cohort 06\sum2ten\sum2ten\bin\Debug\sum2ten.exe.config
+C:\Users\mich\Cohort 06\sum2ten\sum2ten\bin\Debug\sum2ten.exe
+C:\Users\mich\Cohort 06\sum2ten\sum2ten\bin\Debug\sum2ten.pdb
+C:\Users\mich\Cohort 06\sum2ten\sum2ten\obj\Debug\sum2ten.csprojAssemblyReference.cache
+C:\Users\mich\Cohort 06\sum2ten\sum2ten\obj\Debug\sum2ten.csproj.CoreCompileInputs.cache
+C:\Users\mich\Cohort 06\sum2ten\sum2ten\obj\Debug\sum2ten.exe
+C:\Users\mich\Cohort 06\sum2ten\sum2ten\obj\Debug\sum2ten.pdb

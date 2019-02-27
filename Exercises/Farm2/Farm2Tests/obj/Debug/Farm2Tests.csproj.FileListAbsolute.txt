@@ -1,0 +1,17 @@
+C:\Users\mich\Cohort 06\Farm2\Farm2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mich\Cohort 06\Farm2\Farm2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mich\Cohort 06\Farm2\Farm2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mich\Cohort 06\Farm2\Farm2Tests\bin\Debug\Farm2Tests.dll
+C:\Users\mich\Cohort 06\Farm2\Farm2Tests\bin\Debug\Farm2Tests.pdb
+C:\Users\mich\Cohort 06\Farm2\Farm2Tests\bin\Debug\Farm2.exe
+C:\Users\mich\Cohort 06\Farm2\Farm2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mich\Cohort 06\Farm2\Farm2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mich\Cohort 06\Farm2\Farm2Tests\bin\Debug\Farm2.pdb
+C:\Users\mich\Cohort 06\Farm2\Farm2Tests\bin\Debug\Farm2.exe.config
+C:\Users\mich\Cohort 06\Farm2\Farm2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mich\Cohort 06\Farm2\Farm2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mich\Cohort 06\Farm2\Farm2Tests\obj\Debug\Farm2Tests.csprojAssemblyReference.cache
+C:\Users\mich\Cohort 06\Farm2\Farm2Tests\obj\Debug\Farm2Tests.csproj.CoreCompileInputs.cache
+C:\Users\mich\Cohort 06\Farm2\Farm2Tests\obj\Debug\Farm2Tests.csproj.CopyComplete
+C:\Users\mich\Cohort 06\Farm2\Farm2Tests\obj\Debug\Farm2Tests.dll
+C:\Users\mich\Cohort 06\Farm2\Farm2Tests\obj\Debug\Farm2Tests.pdb

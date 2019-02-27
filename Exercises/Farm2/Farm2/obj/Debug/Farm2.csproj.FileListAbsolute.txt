@@ -1,0 +1,7 @@
+C:\Users\mich\Cohort 06\Farm2\Farm2\bin\Debug\Farm2.exe.config
+C:\Users\mich\Cohort 06\Farm2\Farm2\bin\Debug\Farm2.exe
+C:\Users\mich\Cohort 06\Farm2\Farm2\bin\Debug\Farm2.pdb
+C:\Users\mich\Cohort 06\Farm2\Farm2\obj\Debug\Farm2.csprojAssemblyReference.cache
+C:\Users\mich\Cohort 06\Farm2\Farm2\obj\Debug\Farm2.csproj.CoreCompileInputs.cache
+C:\Users\mich\Cohort 06\Farm2\Farm2\obj\Debug\Farm2.exe
+C:\Users\mich\Cohort 06\Farm2\Farm2\obj\Debug\Farm2.pdb

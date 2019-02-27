@@ -1,0 +1,14 @@
+C:\Users\mich\Cohort 06\CExercise02\CExercise02\bin\Debug\CExercise02.exe.config
+C:\Users\mich\Cohort 06\CExercise02\CExercise02\bin\Debug\CExercise02.exe
+C:\Users\mich\Cohort 06\CExercise02\CExercise02\bin\Debug\CExercise02.pdb
+C:\Users\mich\Cohort 06\CExercise02\CExercise02\obj\Debug\CExercise02.csprojAssemblyReference.cache
+C:\Users\mich\Cohort 06\CExercise02\CExercise02\obj\Debug\CExercise02.csproj.CoreCompileInputs.cache
+C:\Users\mich\Cohort 06\CExercise02\CExercise02\obj\Debug\CExercise02.exe
+C:\Users\mich\Cohort 06\CExercise02\CExercise02\obj\Debug\CExercise02.pdb
+C:\Users\mich\Cohort 06\ISTA220\Exercises\CExercise02\CExercise02\bin\Debug\CExercise02.exe.config
+C:\Users\mich\Cohort 06\ISTA220\Exercises\CExercise02\CExercise02\bin\Debug\CExercise02.exe
+C:\Users\mich\Cohort 06\ISTA220\Exercises\CExercise02\CExercise02\bin\Debug\CExercise02.pdb
+C:\Users\mich\Cohort 06\ISTA220\Exercises\CExercise02\CExercise02\obj\Debug\CExercise02.csprojAssemblyReference.cache
+C:\Users\mich\Cohort 06\ISTA220\Exercises\CExercise02\CExercise02\obj\Debug\CExercise02.csproj.CoreCompileInputs.cache
+C:\Users\mich\Cohort 06\ISTA220\Exercises\CExercise02\CExercise02\obj\Debug\CExercise02.exe
+C:\Users\mich\Cohort 06\ISTA220\Exercises\CExercise02\CExercise02\obj\Debug\CExercise02.pdb

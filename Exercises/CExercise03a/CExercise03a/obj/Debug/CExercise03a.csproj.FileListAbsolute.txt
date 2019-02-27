@@ -1,0 +1,7 @@
+C:\Users\mich\Cohort 06\CExercise03a\CExercise03a\bin\Debug\CExercise03a.exe.config
+C:\Users\mich\Cohort 06\CExercise03a\CExercise03a\bin\Debug\CExercise03a.exe
+C:\Users\mich\Cohort 06\CExercise03a\CExercise03a\bin\Debug\CExercise03a.pdb
+C:\Users\mich\Cohort 06\CExercise03a\CExercise03a\obj\Debug\CExercise03a.csprojAssemblyReference.cache
+C:\Users\mich\Cohort 06\CExercise03a\CExercise03a\obj\Debug\CExercise03a.csproj.CoreCompileInputs.cache
+C:\Users\mich\Cohort 06\CExercise03a\CExercise03a\obj\Debug\CExercise03a.exe
+C:\Users\mich\Cohort 06\CExercise03a\CExercise03a\obj\Debug\CExercise03a.pdb

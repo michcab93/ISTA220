@@ -1,0 +1,7 @@
+C:\Users\mich\Cohort 06\SoloLearn02\SoloLearn02\bin\Debug\SoloLearn02.exe.config
+C:\Users\mich\Cohort 06\SoloLearn02\SoloLearn02\bin\Debug\SoloLearn02.exe
+C:\Users\mich\Cohort 06\SoloLearn02\SoloLearn02\bin\Debug\SoloLearn02.pdb
+C:\Users\mich\Cohort 06\SoloLearn02\SoloLearn02\obj\Debug\SoloLearn02.csprojAssemblyReference.cache
+C:\Users\mich\Cohort 06\SoloLearn02\SoloLearn02\obj\Debug\SoloLearn02.csproj.CoreCompileInputs.cache
+C:\Users\mich\Cohort 06\SoloLearn02\SoloLearn02\obj\Debug\SoloLearn02.exe
+C:\Users\mich\Cohort 06\SoloLearn02\SoloLearn02\obj\Debug\SoloLearn02.pdb

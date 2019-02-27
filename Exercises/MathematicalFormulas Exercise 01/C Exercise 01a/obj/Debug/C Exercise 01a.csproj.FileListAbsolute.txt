@@ -1,0 +1,14 @@
+C:\Users\mich\source\repos\C Exercise 01a\C Exercise 01a\obj\Debug\C Exercise 01a.csproj.CoreCompileInputs.cache
+C:\Users\mich\source\repos\C Exercise 01a\C Exercise 01a\bin\Debug\C Exercise 01a.exe.config
+C:\Users\mich\source\repos\C Exercise 01a\C Exercise 01a\bin\Debug\C Exercise 01a.exe
+C:\Users\mich\source\repos\C Exercise 01a\C Exercise 01a\bin\Debug\C Exercise 01a.pdb
+C:\Users\mich\source\repos\C Exercise 01a\C Exercise 01a\obj\Debug\C Exercise 01a.exe
+C:\Users\mich\source\repos\C Exercise 01a\C Exercise 01a\obj\Debug\C Exercise 01a.pdb
+C:\Users\mich\source\repos\C Exercise 01a\C Exercise 01a\obj\Debug\C Exercise 01a.csprojAssemblyReference.cache
+C:\Users\mich\Cohort 06\ISTA220\Exercises\C Exercise 01a\C Exercise 01a\bin\Debug\C Exercise 01a.exe.config
+C:\Users\mich\Cohort 06\ISTA220\Exercises\C Exercise 01a\C Exercise 01a\bin\Debug\C Exercise 01a.exe
+C:\Users\mich\Cohort 06\ISTA220\Exercises\C Exercise 01a\C Exercise 01a\bin\Debug\C Exercise 01a.pdb
+C:\Users\mich\Cohort 06\ISTA220\Exercises\C Exercise 01a\C Exercise 01a\obj\Debug\C Exercise 01a.csprojAssemblyReference.cache
+C:\Users\mich\Cohort 06\ISTA220\Exercises\C Exercise 01a\C Exercise 01a\obj\Debug\C Exercise 01a.csproj.CoreCompileInputs.cache
+C:\Users\mich\Cohort 06\ISTA220\Exercises\C Exercise 01a\C Exercise 01a\obj\Debug\C Exercise 01a.exe
+C:\Users\mich\Cohort 06\ISTA220\Exercises\C Exercise 01a\C Exercise 01a\obj\Debug\C Exercise 01a.pdb
